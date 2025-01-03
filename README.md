@@ -20,7 +20,7 @@ Expense Tracker is a simple web application designed to help users manage and tr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/soheilkhaledabdi/expense-tracker-front.git
    ```
    
 2. Navigate to the project folder:
