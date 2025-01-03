@@ -25,7 +25,7 @@ Expense Tracker is a simple web application designed to help users manage and tr
    
 2. Navigate to the project folder:
    ```bash
-   cd expense-tracker
+   cd expense-tracker-front
    ```
 
 3. Install dependencies:
